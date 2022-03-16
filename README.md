@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## 詳細
+DMM WEBCAMPの学習コンテンツアプリケーションを完成させよう2 1~24章で作成したアプリケーションです。
